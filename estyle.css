@@ -1,0 +1,24 @@
+.ato{
+    background-color: blue;
+    height: 350px;
+    font-size: 100px;
+}
+.steve{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+color: orange;
+background-color: aquamarine;
+height: 350px;
+font-size: 100px;
+}
+img{
+    height: 300px;
+    width: 250px;
+    float: right;
+}
+.ñaña{  background-color: blueviolet;
+    height: 200px;
+    color: aquamarine;
+    font-size: 100px;
+}
+p{
+    font-size: 20px;
+}
