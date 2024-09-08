@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+
+<html lang="es">
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Prevención de Drogas</title>
+
+    <style>
+
+        body {
+
+            font-family: Arial, sans-serif;
+
+            margin: 0;
+
+            padding: 0;
+
+            background-color: #f4f4f4;
+
+        }
+
+        header {
+
+            background-color: #4CAF50;
+
+            color: white;
+
+            padding: 1em 0;
+
+            text-align: center;
+
+        }
+
+        main {
+
+            padding: 20px;
+
+        }
+
+        section {
+
+            margin-bottom: 20px;
+
+        }
+
+        footer {
+
+            background-color: #333;
+
+            color: white;
+
+            text-align: center;
+
+            padding: 10px 0;
+
+            position: fixed;
+
+            width: 100%;
+
+            bottom: 0;
+
+        }
+
+    </style>
+
+</head>
+
+<body>
+
+    <header>
+
+        <h1>Prevención de Drogas</h1>
+
+    </header>
+
+    <main>
+
+        <section>
+
+            <h2>¿Qué son las drogas?</h2>
+
+            <p>Las drogas son sustancias que, al ser introducidas en el organismo, pueden alterar una o más funciones del cuerpo. Pueden ser legales, como el alcohol y el tabaco, o ilegales, como la cocaína y la heroína.</p>
+
+        </section>
+
+        <section>
+
+            <h2>Consecuencias del consumo de drogas</h2>
+
+            <p>El consumo de drogas puede llevar a la adicción, problemas de salud física y mental, y dificultades sociales y económicas. Es importante estar informado sobre los riesgos asociados con el uso de drogas.</p>
+
+        </section>
+
+        <section>
+
+            <h2>Cómo prevenir el consumo de drogas</h2>
+
+            <ul>
+
+                <li>Educación: Informar a los jóvenes sobre los riesgos y consecuencias del consumo de drogas.</li>
+
+                <li>Comunicación: Mantener una comunicación abierta y honesta con familiares y amigos.</li>
+
+                <li>Actividades: Fomentar la participación en actividades deportivas, culturales y recreativas.</li>
+
+                <li>Apoyo: Buscar ayuda profesional si se sospecha de un problema de consumo de drogas.</li>
+
+            </ul>
+
+        </section>
+
+    </main>
+
+    <footer>
+
+        <p>Creado por Ruíz Ramos Arley</p>
+
+    </footer>
+
+</body>
+
+</html>
+
